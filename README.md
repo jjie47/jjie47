@@ -2,6 +2,8 @@
 # About Me
 안녕하세요! 풀스택 개발자 양지은입니다.<br/>
 현재 React와 Spring을 활용한 웹 개발에 집중하고 있으며, 지속적인 학습과 창의적인 문제 해결을 지향합니다.<br/>
+<br/>
+E-mail : niuiu47@gmail.com
 
 ## Tech Stack
 **Front-end** <br/>
